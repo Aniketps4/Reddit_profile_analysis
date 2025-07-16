@@ -1,0 +1,32 @@
+Name: kojied
+Age: Unknown
+Occupation: Possible iOS/visionOS developer (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)
+Location: Inferred urban area (near a bar) (Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+Tier: Early Adopters (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)
+Archetype: The Creator (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)
+
+Motivations:
+- convenience:  (Score: 0/5)
+- wellness:  (Score: 0/5)
+- speed:  (Score: 0/5)
+- preferences: █ (Score: 1/5)
+- comfort: █ (Score: 1/5)
+- dietary needs: █ (Score: 1/5)
+
+Personality:
+- introvert / extrovert: █████ Neutral
+- intuition / sensing: █████ Neutral
+- feeling / thinking: █████ Neutral
+- perceiving / judging: █████ Neutral
+
+Behavior & Habits:
+- No clear habits identified (Source: N/A)
+
+Frustrations:
+- Feels violated by external factors (Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+
+Goals & Needs:
+- Desires future tech experiences (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/)
+
+Quote:
+I want to master new tech and enjoy gaming without limitations.
