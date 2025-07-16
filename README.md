@@ -26,17 +26,17 @@ Install them using pip:pip install praw python-docx
 1. **Navigate to the Project Directory**:
 2. **Run the Scraping Script**:
 - For `Hungry-Move-6603`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" scrape_reddit.py https://www.reddit.com/user/Hungry-Move-6603/
--  For `kojied`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" generate_persona_word.py kojied_data.json
+- For `kojied`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" scrape_reddit.py https://www.reddit.com/user/kojied/
 3. **Verify Output**:
 - Check for `Hungry-Move-6603_data.json` and `kojied_data.json` in the directory. The terminal will display scraped posts and comments for debugging.
 
 ### Step 2: Generate Persona Word Document
 1. **Run the Generation Script**:
-- For `Hungry-Move-6603`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" generate_persona_word.py Hungry-Move-6603_data.json
--  For `kojied`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" generate_persona_word.py kojied_data.json
+- For `Hungry-Move-6603`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" generate_wordfile.py Hungry-Move-6603_data.json
+-  For `kojied`:"C:/Users/anike/PostgreSQL/17/pgAdmin 4/python/python.exe" generate_wordfile.py kojied_data.json
  
 2. **Verify Output**:
-- Check for `Hungry-Move-6603_persona.docx` and `kojied_persona.docx`. Open the files to review the generated personas.
+- Check for `Hungry-Move-6603_persona.txt` and `kojied_persona.txt`. Open the files to review the generated personas.
 
 ### Troubleshooting
 - **Missing Argument Error**: Ensure the URL is provided when running `scrape_reddit.py`.
